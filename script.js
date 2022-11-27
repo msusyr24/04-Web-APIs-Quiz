@@ -20,6 +20,8 @@ var inputs;
           inputs = JSON.parse(localStorageContent);
         }
 
+// I kept writing over the stored array by not having this if statement above //
+
 var question1 = {
   question: "Arrays in JavaScript can be used to store _______.",
   answer1: "1. Numbers and Strings",
@@ -126,6 +128,8 @@ timer = setInterval(function(){
   }
 }, 1000);
 }
+
+//I had the variable "timer" inside of this function which caused issues until I realized it was not global//
 
 function presentQuestions(){
   var ol = document.createElement("ol");
