@@ -3,8 +3,10 @@
 Project Description: A quiz to help with JavaScript fundamentals; both the ideas in question form, and the technical in actually building the quiz.
 
 Screenshot showing the quiz being run, with a timer counting down in the top right.
+<img src="https://github.com/msusyr24/04-Web-APIs-Quiz/blob/8df5c316c6bc528efa1e3c2092ab97c34a418085/Image1.png">
 
 Screenshot showing using local storage for the first time. It's used here to store high scores.
+<img src="https://github.com/msusyr24/04-Web-APIs-Quiz/blob/8df5c316c6bc528efa1e3c2092ab97c34a418085/Image2.png">
 
 Link to Deployed Application:
 https://msusyr24.github.io/04-Web-APIs-Quiz/
